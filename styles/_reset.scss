@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Vermin;
+    src: url(./vermin-vibes.ttf);
+}
+
+@font-face {
+    font-family: Pixel;
+    src: url(./Minecraft.ttf);
+}
+
+*{
+    background-color: rgb(203, 0, 0);
+    margin: 0px;
+    font-family: Pixel;
+    color: white;
+}
